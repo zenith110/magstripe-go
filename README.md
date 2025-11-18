@@ -2,7 +2,7 @@
 
 A Go library and command-line tool for working with magnetic stripe card readers/writers, specifically the MSR605 and compatible devices.
 
-This is a Go port of the original Python MSR driver by Damien Bobillot.
+This is a Go port of the original Python MSR driver by [Chris Lambert](https://github.com/theriley106/magstripe-python), which is based off the work of Damien Bobillot and Raphael Michel.
 
 ## Features
 

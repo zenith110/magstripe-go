@@ -19,13 +19,13 @@ This is a Go port of the original Python MSR driver by [Chris Lambert](https://g
 ### As a Go Module
 
 ```bash
-go get github.com/abrahan/magstripe-go
+go get github.com/zenith110/magstripe-go
 ```
 
 ### Building from Source
 
 ```bash
-git clone https://github.com/abrahan/magstripe-go.git
+git clone https://github.com/zeith110/magstripe-go.git
 cd magstripe-go
 go mod tidy
 go test
@@ -47,7 +47,7 @@ import (
     "fmt"
     "log"
     
-    "github.com/abrahan/magstripe-go"
+    "github.com/zenith110/magstripe-go"
 )
 
 func main() {
